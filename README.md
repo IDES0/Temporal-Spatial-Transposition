@@ -2,6 +2,8 @@
 
 A mathematical visualization project that explores the concept of temporal-spatial transposition through animated helical paths in 4D space-time.
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johnborkowski/Temporal-Spatial-Transposition/blob/main/temporal_spatial_transpose_notebook.ipynb)
+
 ## 🎬 Overview
 
 This project demonstrates how objects moving through 3D space over time can be visualized and analyzed through different dimensional perspectives. The core concept involves a circle moving along a helical path, and how this motion appears when viewed from different spatial-temporal orientations.
