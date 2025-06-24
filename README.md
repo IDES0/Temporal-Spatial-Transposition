@@ -2,7 +2,7 @@
 
 A mathematical visualization project that explores the concept of temporal-spatial transposition through animated helical paths in 4D space-time.
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johnborkowski/Temporal-Spatial-Transposition/blob/main/temporal_spatial_transpose_notebook.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/IDES0/Temporal-Spatial-Transposition/blob/main/temporal_spatial_transpose_notebook.ipynb)
 
 ## 🎬 Overview
 
