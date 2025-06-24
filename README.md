@@ -75,10 +75,12 @@ The `exports/` folder contains the transposed views of surf3.gif:
 
 #### T-X-Y Transposition
 ![T-X-Y Transposition](exports/surf3_t-x-y_60fps.gif)
+
 *Time vs X position, with Y fixed - shows temporal evolution of horizontal motion*
 
 #### Y-T-X Transposition  
-![Y-T-X Transposition](exports/surf_y-t-x_60fps.gif)
+![Y-T-X Transposition](exports/surf3_y-t-x_60fps.gif)
+
 *Y position vs Time, with X fixed - shows temporal evolution of vertical motion*
 
 ## 🛠️ Technical Implementation
